@@ -1,3 +1,7 @@
+# Smart Home Meter
+Created a Smart Home Meter to monitor electricity, water, and gas usage on a unified display. Utilized components such as ESP32 microcontroller, ACS71 current sensor module, YF-S201 gas and water flow sensor, and an LCD display. Implemented an SMS gateway for remote consumption information retrieval via SMS. Established wireless data transmission using ESP32 to an IoT dashboard for real-time monitoring. Designed the system for convenient access and storage of consumption data, enabling future analysis.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
